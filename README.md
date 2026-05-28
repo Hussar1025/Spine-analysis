@@ -37,3 +37,4 @@ This project shifts the paradigm from "post-intervention validation" to "pre-int
 We utilize multi-source datasets to support our predictive modeling, including single-cell omics data, cellular AFM mechanical data, micro-nano optical data, and public database resources (e.g., GBD, NIH).
 * **Core Datasets:**
     * GSE244889 (including sample GSM7831813 and others)
+    * Xenium_V1_hHeart_nondiseased_section_FFPE
